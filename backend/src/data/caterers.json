@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Feast Caterers",
+    "location": "Mumbai",
+    "pricePerPlate": 450,
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Desserts"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Spice Route Events",
+    "location": "Bengaluru",
+    "pricePerPlate": 320,
+    "cuisines": [
+      "South Indian",
+      "Continental"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Heritage Platter",
+    "location": "Delhi",
+    "pricePerPlate": 580,
+    "cuisines": [
+      "Mughlai",
+      "North Indian",
+      "Live Counters"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Green Leaf Catering",
+    "location": "Pune",
+    "pricePerPlate": 260,
+    "cuisines": [
+      "Vegetarian",
+      "Jain",
+      "Snacks"
+    ],
+    "rating": 4
+  }
+]
