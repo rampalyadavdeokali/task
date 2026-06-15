@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# task
+new task
+=======
+>>>>>>> 649171011e127d6b128ba0aa2dec47a7a7b73ec3
 # Catering Search Platform
 
 A small full-stack catering search platform built with an Express backend and a Next.js frontend. The app lets users browse caterers, search by name, filter by price per plate, and add new caterers through a REST API.
@@ -163,3 +170,7 @@ curl -X POST http://localhost:5000/api/caterers \
 - Frontend can be deployed to Vercel by setting `NEXT_PUBLIC_API_BASE_URL` to the deployed backend URL.
 - Backend can be deployed to Render, EC2, or any Node-compatible host by setting `PORT` and `API_BASE_URL`.
 - If you move away from JSON storage in production, swap the model layer with a database-backed implementation.
+<<<<<<< HEAD
+=======
+>>>>>>> 67afc63 (Initial commit)
+>>>>>>> 649171011e127d6b128ba0aa2dec47a7a7b73ec3

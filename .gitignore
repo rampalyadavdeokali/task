@@ -1,8 +1,19 @@
 node_modules/
 .next/
+<<<<<<< HEAD
 .env
 .env.local
 backend/.env
 frontend/.env.local
 .npm-cache/
 backend/.npm-cache/
+=======
+out/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+*.log
+log.txt
+>>>>>>> 649171011e127d6b128ba0aa2dec47a7a7b73ec3
